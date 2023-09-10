@@ -1,0 +1,14 @@
+.App {
+  color: rgb(201, 33, 33);
+}
+.row {
+  background: black;
+  color: white;
+  border-radius: 20px;
+  height: 550px;
+  line-height: 42px;
+  margin-left: 500px;
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+}
